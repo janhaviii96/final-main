@@ -1,0 +1,7 @@
+project_id = "cmwvovxzantgaroxucbm"
+
+[functions.admin-verify-user]
+verify_jwt = true
+
+[functions.submit-verification]
+verify_jwt = true
